@@ -1,2 +1,2 @@
 # hello-world
-First Experience
+Hi, people! Let's start learning Github...
